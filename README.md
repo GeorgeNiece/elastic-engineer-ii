@@ -31,7 +31,7 @@ Lab 6: [Version Conflict](labs/06-versions/index.md)
 ## Day 2
 
 ### Labs 
-<1--
+<!--
 Lab 7: [Text analyzers](labs/07-analyzers/index.md)
 
 Lab 8: [Joins](labs/08-join/index.md)
