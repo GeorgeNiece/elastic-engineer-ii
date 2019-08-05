@@ -2,14 +2,16 @@
 
 # Elastic Engineer II Course Site 
 
-This site contains the content and labs for the Elastic Stack course. 
+This site contains the content and labs for the Elastic Engineer II course. 
 
 
-<!-- [Course Content Day 1](https://drive.google.com/file/d/1nH8k3TITrDJ0bn6tmCDPiGBkSg4C-Kxd/view?usp=sharing)
-[Course Content Day 2](https://drive.google.com/file/d/1iy8remi_7yfiNzJF955lRkSzXS2avDT9/view?usp=sharing) -->
+ [Course Content Day 1](https://drive.google.com/file/d/1OhbQfsXHibVVQmKWLQs6SmTZs5_gXAED/view?usp=sharing)
+<!-- [Course Content Day 2](https://drive.google.com/file/d/1iy8remi_7yfiNzJF955lRkSzXS2avDT9/view?usp=sharing) -->
 ## Day 1 
 
 ### Labs
+
+Lab Guide: [Elastic Engineer II Labs](https://drive.google.com/file/d/1kZ6Fal8b1PMT2R_4ikUnlCI7CXxPmVSr/view?usp=sharing)   
 <!--
 Experiment: [Elastic Stack Cloud AppDev Observability](https://drive.google.com/file/d/1fiIH0pQEnqN07XPbcgtzoKTq9PEIUUqQ/view?usp=sharing)  
 
