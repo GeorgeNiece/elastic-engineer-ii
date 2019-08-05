@@ -7,7 +7,6 @@ This site contains the content and labs for the Elastic Engineer II course.
 
  [Course Content Day 1](https://drive.google.com/file/d/1OhbQfsXHibVVQmKWLQs6SmTZs5_gXAED/view?usp=sharing)
 <!-- [Course Content Day 2](https://drive.google.com/file/d/1iy8remi_7yfiNzJF955lRkSzXS2avDT9/view?usp=sharing) -->
-## Day 1 
 
 ### Labs
 
@@ -29,11 +28,11 @@ Lab 5: [Update documents](labs/05-update-document/index.md)
 
 Lab 6: [Version Conflict](labs/06-versions/index.md)
 -->
-
+<!--
 ## Day 2
 
 ### Labs 
-<!--
+
 Lab 7: [Text analyzers](labs/07-analyzers/index.md)
 
 Lab 8: [Joins](labs/08-join/index.md)
